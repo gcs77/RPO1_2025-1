@@ -1,0 +1,7 @@
+C:\Users\SALA 404\Downloads\lP0001\Holamundo\Holamundo\bin\Debug\Holamundo.exe.config
+C:\Users\SALA 404\Downloads\lP0001\Holamundo\Holamundo\bin\Debug\Holamundo.exe
+C:\Users\SALA 404\Downloads\lP0001\Holamundo\Holamundo\bin\Debug\Holamundo.pdb
+C:\Users\SALA 404\Downloads\lP0001\Holamundo\Holamundo\obj\Debug\Holamundo.csproj.AssemblyReference.cache
+C:\Users\SALA 404\Downloads\lP0001\Holamundo\Holamundo\obj\Debug\Holamundo.csproj.CoreCompileInputs.cache
+C:\Users\SALA 404\Downloads\lP0001\Holamundo\Holamundo\obj\Debug\Holamundo.exe
+C:\Users\SALA 404\Downloads\lP0001\Holamundo\Holamundo\obj\Debug\Holamundo.pdb
